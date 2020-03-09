@@ -7,7 +7,6 @@ import java.util.Base64;
 
 /**
  * Open an SMTP connection to a mailserver and send one mail.
- *
  */
 public class mailClient {
 
